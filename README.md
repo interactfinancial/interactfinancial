@@ -7,9 +7,9 @@
 <br />
 
 [![Official Platform](https://img.shields.io/badge/🌐_Official_Platform-interactfinancial.ca-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://interactfinancial.ca/)
-[![About Dan Anders](https://img.shields.io/badge/👨‍💼_About_Founder-Dan_Anders_CFP%C2%AE_TEP-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://interactfinancial.ca/about/)
-[![Book Consultation](https://img.shields.io/badge/📞_Book_Consultation-Free_Strategy_Session-FFAB00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://interactfinancial.ca/contact/)
-[![Direct Phone](https://img.shields.io/badge/☎️_Call_Us-%2B1_(604)_318--9161-E10098?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16043189161)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dan_Anders-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dananders17/)
+[![Facebook](https://img.shields.io/badge/Facebook-Interact_Financial-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/interactfinancial)
+[![X / Twitter](https://img.shields.io/badge/X-@InteractWithDan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/InteractWithDan/)
 
 ---
 
@@ -89,6 +89,17 @@
 
 ---
 
+## 🕒 Office Opening Hours & Availability
+
+| Day | Business Hours |
+| :--- | :--- |
+| **Monday – Thursday** | `08:00 – 20:00` |
+| **Friday** | `08:00 – 17:00` |
+| **Saturday** | `09:00 – 13:00` |
+| **Sunday** | `CLOSED` |
+
+---
+
 ## 📞 Official Contact & Office Headquarters
 
 * **Official Website:** [interactfinancial.ca](https://interactfinancial.ca/)
@@ -96,6 +107,10 @@
 * **Direct Email:** `dan.anders@interactfinancial.ca`
 * **Direct Phone:** `+1 (604) 318-9161`
 * **Office Location:** `3450 Uptown Blvd, Victoria, BC V8Z 0B9, Canada`
+* **Official Social Profiles:**
+  * 🌐 [LinkedIn Profile](https://www.linkedin.com/in/dananders17/)
+  * 📘 [Facebook Page](https://www.facebook.com/interactfinancial)
+  * 🐤 [X (Twitter) Profile](https://x.com/InteractWithDan/)
 
 ---
 
