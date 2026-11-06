@@ -107,10 +107,17 @@
 * **Direct Email:** `dan.anders@interactfinancial.ca`
 * **Direct Phone:** `+1 (604) 318-9161`
 * **Office Location:** `3450 Uptown Blvd, Victoria, BC V8Z 0B9, Canada`
-* **Official Social Profiles:**
-  * 🌐 [LinkedIn Profile](https://www.linkedin.com/in/dananders17/)
-  * 📘 [Facebook Page](https://www.facebook.com/interactfinancial)
-  * 🐤 [X (Twitter) Profile](https://x.com/InteractWithDan/)
+
+<br />
+
+<!-- CLEAN SOCIAL BADGES -->
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dananders17/)
+[![Facebook](https://img.shields.io/badge/Follow_on_Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/interactfinancial)
+[![X / Twitter](https://img.shields.io/badge/Follow_on_X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/InteractWithDan/)
+
+</div>
 
 ---
 
