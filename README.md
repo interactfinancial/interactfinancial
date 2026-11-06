@@ -7,8 +7,8 @@
 <br />
 
 [![Official Platform](https://img.shields.io/badge/🌐_Official_Platform-interactfinancial.ca-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://interactfinancial.ca/)
-[![About Dan Anders](https://img.shields.io/badge/👨‍💼_About_Founder-Dan_Anders_CFP%C2%AE_TEP-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://interactfinancial.ca/)
-[![Book Consultation](https://img.shields.io/badge/📞_Book_Consultation-Free_Strategy_Session-FFAB00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://interactfinancial.ca/contact)
+[![About Dan Anders](https://img.shields.io/badge/👨‍💼_About_Founder-Dan_Anders_CFP%C2%AE_TEP-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://interactfinancial.ca/about/)
+[![Book Consultation](https://img.shields.io/badge/📞_Book_Consultation-Free_Strategy_Session-FFAB00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://interactfinancial.ca/contact/)
 [![Direct Phone](https://img.shields.io/badge/☎️_Call_Us-%2B1_(604)_318--9161-E10098?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16043189161)
 
 ---
@@ -20,18 +20,18 @@
 | Portal Category | Dedicated Direct Resource URLs & Details |
 | :--- | :--- |
 | **🌐 Official Platform Hub** | 🚀 [Interact Financial Homepage](https://interactfinancial.ca/) |
-| **👨‍💼 About & Credentials** | 📖 [Meet Dan Anders, CFP®, TEP](https://interactfinancial.ca/) |
-| **🎯 Core Services Index** | 📈 [Financial Planning](https://interactfinancial.ca/) • 🛡️ [Estate Planning](https://interactfinancial.ca/) • 💰 [Retirement Planning](https://interactfinancial.ca/) |
-| **🏠 Advanced Strategies** | 🏡 [The Smith Manoeuvre™](https://interactfinancial.ca/) • 💼 [Business Succession & Planning](https://interactfinancial.ca/) |
-| **🛡️ Insurance Solutions** | 📋 [Life & Disability Insurance Audits](https://interactfinancial.ca/) |
-| **💲 Transparent Fee Models** | ⚖️ [Fee-Only vs. Commission-Based Advice](https://interactfinancial.ca/) |
-| **📩 Direct Communication** | 📞 [Book Free Consultation & Contact Page](https://interactfinancial.ca/contact) |
+| **👨‍💼 About & Credentials** | 📖 [Meet Dan Anders, CFP®, TEP](https://interactfinancial.ca/about/) |
+| **🎯 Financial Advisory** | 📈 [Certified Financial Planner (CFP®)](https://interactfinancial.ca/services/certified-financial-planner-victoria-bc/) • ⚖️ [Fee-Only Planning](https://interactfinancial.ca/services/fee-only-financial-planner-victoria-bc/) |
+| **💰 Core Planning Services** | 🏖️ [Retirement Planning](https://interactfinancial.ca/services/retirement-planning-victoria-bc/) • 🛡️ [Estate Planning](https://interactfinancial.ca/services/estate-planning-victoria-bc/) |
+| **🏠 Specialized Strategies** | 🏡 [The Smith Manoeuvre™](https://interactfinancial.ca/services/smith-manoeuvre-victoria-bc/) • 💼 [Business Planning & Succession](https://interactfinancial.ca/services/business-planning-victoria-bc/) |
+| **🛡️ Insurance Solutions** | 📋 [Life & Disability Insurance Audits](https://interactfinancial.ca/services/life-insurance-victoria-bc/) |
+| **📩 Direct Communication** | 📞 [Book Free Consultation & Contact Page](https://interactfinancial.ca/contact/) |
 
 ---
 
 ## 💡 The Interact Financial Philosophy
 
-> 📢 **"We Guide, You Decide:"**[cite: 1] Traditional financial advisory often pushes products over planning. **Interact Financial** starts with a complete, holistic financial roadmap covering retirement income, tax reduction, estate preservation, and insurance[cite: 1].
+> 📢 **"We Guide, You Decide:"** Traditional financial advisory often pushes products over planning. **Interact Financial** starts with a complete, holistic financial roadmap covering retirement income, tax reduction, estate preservation, and insurance.
 
 ---
 
@@ -41,9 +41,9 @@
 <summary><b>📈 1. Comprehensive Financial & Retirement Planning</b></summary>
 <br />
 
-* **Holistic Strategy:** Integrates income, savings, investments, taxes, and estate plans into one clear framework[cite: 1].
-* **Tax-Efficient Drawdowns:** Optimizes the withdrawal order for RRSPs, RRIFs, TFSAs, CPP, and OAS to maximize your retirement income[cite: 1].
-* 🔗 <b><a href="https://interactfinancial.ca/">Explore Financial Planning Services →</a></b>[cite: 1]
+* **Holistic Strategy:** Integrates income, savings, investments, taxes, and estate plans into one clear framework.
+* **Tax-Efficient Drawdowns:** Optimizes the withdrawal order for RRSPs, RRIFs, TFSAs, CPP, and OAS to maximize your retirement income.
+* 🔗 <b><a href="https://interactfinancial.ca/services/retirement-planning-victoria-bc/">Explore Retirement Planning Services →</a></b>
 
 </details>
 
@@ -51,9 +51,9 @@
 <summary><b>🛡️ 2. Estate Planning & Insurance Solutions</b></summary>
 <br />
 
-* **Estate Preservation:** Minimizes taxes and BC probate fees (approx. 1.4% of estate value over $50,000) using wills, trusts, and beneficiary structures[cite: 1].
-* **Insurance Audits & Protection:** Comprehensive comparisons of life, disability, and long-term care coverage from multiple carriers[cite: 1].
-* 🔗 <b><a href="https://interactfinancial.ca/">Explore Estate & Insurance Services →</a></b>[cite: 1]
+* **Estate Preservation:** Minimizes taxes and BC probate fees (approx. 1.4% of estate value over $50,000) using wills, trusts, and beneficiary structures.
+* **Insurance Audits & Protection:** Comprehensive comparisons of life, disability, and long-term care coverage from multiple carriers.
+* 🔗 <b><a href="https://interactfinancial.ca/services/estate-planning-victoria-bc/">Explore Estate Planning Services →</a></b> • 🔗 <b><a href="https://interactfinancial.ca/services/life-insurance-victoria-bc/">Life Insurance Services →</a></b>
 
 </details>
 
@@ -61,9 +61,9 @@
 <summary><b>🏠 3. The Smith Manoeuvre™ & Business Succession</b></summary>
 <br />
 
-* **Smith Manoeuvre Certified Professional™:** Gradually converts non-deductible mortgage debt into tax-deductible investment loans safely[cite: 1].
-* **Small Business Advisory:** Buy-sell funding, key person insurance, and tax-efficient corporate extraction for entrepreneurs and business owners[cite: 1].
-* 🔗 <b><a href="https://interactfinancial.ca/">Explore Advanced Strategies →</a></b>[cite: 1]
+* **Smith Manoeuvre Certified Professional™:** Gradually converts non-deductible mortgage debt into tax-deductible investment loans safely.
+* **Small Business Advisory:** Buy-sell funding, key person insurance, and tax-efficient corporate extraction for entrepreneurs and business owners.
+* 🔗 <b><a href="https://interactfinancial.ca/services/smith-manoeuvre-victoria-bc/">Explore The Smith Manoeuvre™ →</a></b> • 🔗 <b><a href="https://interactfinancial.ca/services/business-planning-victoria-bc/">Business Planning Services →</a></b>
 
 </details>
 
@@ -71,29 +71,31 @@
 
 ## 📊 Transparent Fee Structure & Advisory Comparison
 
-| Advisory Model | 🟢 Fee-Only Planning[cite: 1] | 🔵 Commission-Based[cite: 1] |
+| Advisory Model | 🟢 Fee-Only Planning | 🔵 Commission-Based |
 | :--- | :--- | :--- |
-| **Who Pays You** | You, directly (Agreed in advance)[cite: 1] | The insurance company (If product purchased)[cite: 1] |
-| **Products Sold** | **None** (Objective advice & audits)[cite: 1] | Insurance products (If chosen)[cite: 1] |
-| **Best Suited For** | Objective second opinions & fee-only advice[cite: 1] | Combined advisory and product implementation[cite: 1] |
+| **Who Pays You** | You, directly (Agreed in advance) | The insurance company (If product purchased) |
+| **Products Sold** | **None** (Objective advice & audits) | Insurance products (If chosen) |
+| **Best Suited For** | Objective second opinions & fee-only advice | Combined advisory and product implementation |
+| **Service Page** | 🔗 [Fee-Only Advisory Page](https://interactfinancial.ca/services/fee-only-financial-planner-victoria-bc/) | 🔗 [Insurance Advisory Page](https://interactfinancial.ca/services/life-insurance-victoria-bc/) |
 
 ---
 
 ## 👨‍💼 Founder & Professional Credentials
 
-* **Founder & Lead Planner:** **Dan Anders, CFP®, TEP, Smith Manoeuvre Certified Professional™**[cite: 1].
-* **Industry Experience:** Active in financial planning since **1983** (Alberta and British Columbia West Coast since 1999)[cite: 1].
-* **Professional Standards:** Certified Financial Planner (CFP®) certified by FP Canada™ and Trust and Estate Practitioner (TEP) through STEP Canada[cite: 1].
+* **Founder & Lead Planner:** **Dan Anders, CFP®, TEP, Smith Manoeuvre Certified Professional™**.
+* **Industry Experience:** Active in financial planning since **1983** (Alberta and British Columbia West Coast since 1999).
+* **Professional Standards:** Certified Financial Planner (CFP®) certified by FP Canada™ and Trust and Estate Practitioner (TEP) through STEP Canada.
+* 🔗 <b><a href="https://interactfinancial.ca/about/">Read Full Story & Biography →</a></b>
 
 ---
 
 ## 📞 Official Contact & Office Headquarters
 
-* **Official Website:** [interactfinancial.ca](https://interactfinancial.ca/)[cite: 1]
-* **Direct Consultation Page:** [interactfinancial.ca/contact](https://interactfinancial.ca/contact)[cite: 1]
-* **Direct Email:** `dan.anders@interactfinancial.ca`[cite: 1]
-* **Direct Phone:** `+1 (604) 318-9161`[cite: 1]
-* **Office Location:** `3450 Uptown Blvd, Victoria, BC V8Z 0B9, Canada`[cite: 1]
+* **Official Website:** [interactfinancial.ca](https://interactfinancial.ca/)
+* **Direct Consultation Page:** [interactfinancial.ca/contact/](https://interactfinancial.ca/contact/)
+* **Direct Email:** `dan.anders@interactfinancial.ca`
+* **Direct Phone:** `+1 (604) 318-9161`
+* **Office Location:** `3450 Uptown Blvd, Victoria, BC V8Z 0B9, Canada`
 
 ---
 
@@ -101,8 +103,8 @@
 
 ### 🚀 Ready to Secure Your Financial Future with Expert Guidance?
 
-<a href="https://interactfinancial.ca/contact"><img src="https://img.shields.io/badge/📞_Book_Free_Consultation-00875A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Book Consultation" /></a>
-<a href="https://interactfinancial.ca/"><img src="https://img.shields.io/badge/🌐_Visit_Official_Site-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" /></a>
+<a href="https://interactfinancial.ca/contact/"><img src="https://img.shields.io/badge/📞_Book_Free_Consultation-00875A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Book Consultation" /></a>
+<a href="https://interactfinancial.ca/services/certified-financial-planner-victoria-bc/"><img src="https://img.shields.io/badge/🌐_Explore_Financial_Planning-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CFP Planning" /></a>
 
 <br /><br />
 
@@ -110,6 +112,6 @@
   <img src="https://komarev.com/ghpvc/?username=interactfinancial&style=flat-square&color=blue" alt="Repository Traffic Counter" />
 </p>
 
-*© Interact Financial. All rights reserved. Financial Planning For Your Whole Life.*[cite: 1]
+*© Interact Financial. All rights reserved. Financial Planning For Your Whole Life.*
 
 </div>
